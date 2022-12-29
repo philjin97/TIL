@@ -13,4 +13,4 @@ Today I learned...
 
 12/29/2022
 - Git Branching
-- Git Flow
+- GitHub Flow
