@@ -14,3 +14,13 @@ Today I learned...
 12/29/2022
 - Git Branching
 - GitHub Flow
+
+1/02/2023
+- Variables and Objects
+- Types of Objects
+
+1/03/2023
+- Typecasting
+- String Formatting
+- Conditional Statement
+- Loop Statement
