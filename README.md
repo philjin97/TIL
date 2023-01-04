@@ -23,4 +23,8 @@ Today I learned...
 - Typecasting
 - String Formatting
 - Conditional Statement
-- Loop Statement
+- Loop Statements - for
+
+1/04/2023 
+- Loop Statements - while
+- Basic functions
