@@ -51,4 +51,8 @@ Logical Operator and or not
 ##### boxes[1][0] means in object in index 1 of the list, get the letter/value on index 0. 
 <br/>
 
-### 6. None
+### 6. Range
+##### range is also a sequence.
+<br/>
+
+### 7. None
