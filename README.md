@@ -28,3 +28,10 @@ Today I learned...
 1/04/2023 
 - Loop Statements - while
 - Basic functions
+
+1/05/2023 
+- Dictionary
+- Modules and Error
+
+1/06/2023
+- .txtfiles_json
