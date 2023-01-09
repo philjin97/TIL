@@ -35,3 +35,7 @@ Today I learned...
 
 1/06/2023
 - .txtfiles_json
+
+1/09/2023
+- Tuples and Sets
+- Methods
