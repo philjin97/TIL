@@ -39,3 +39,6 @@ Today I learned...
 1/09/2023
 - Tuples and Sets
 - Methods
+
+1/10/2023
+- functions
