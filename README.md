@@ -42,3 +42,13 @@ Today I learned...
 
 1/10/2023
 - functions
+
+1/11/2023 
+- object oriented programming
+- class and instance
+
+1/12/2023
+- Class Inheritance & Advanced Grammar
+
+1/13/2023
+- API
