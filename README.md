@@ -52,3 +52,9 @@ Today I learned...
 
 1/13/2023
 - API
+
+1/16/2023 
+- Intro to Coding Test
+
+
+
