@@ -56,5 +56,15 @@ Today I learned...
 1/16/2023 
 - Intro to Coding Test
 
+1/17/2023 
+- Time
+- Lists
+
+1/18/2023 
+- Strings
+
+1/19/2023 
+- 
+
 
 
