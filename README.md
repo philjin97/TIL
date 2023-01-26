@@ -66,5 +66,8 @@ Today I learned...
 1/19/2023 
 - Dictionary - Hash
 
+1/26/2023 
+- Stack and Queue
+
 
 
