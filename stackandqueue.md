@@ -25,3 +25,23 @@
 #### *from queue import Queue*
 #### **속도** 
 
+#### 올바른 괄호 문자열인지 판단 - using stack
+'''
+ string = "(()())((()))"
+ left_bracket = [] *왼쪽 괄호를 저장하고 제거할 스택(리스트)*
+
+ for bracket in string: 
+    if bracket == "(":
+        left_bracket.append(bracket)
+    if bracket == ")":
+        if len(left_bracket) == 0:
+            print("올바른 문자열이 아닙니다")
+        else:
+            left_bracket.pop()
+ if len(left_bracket) > 0:
+    print('올바른 괄호 문자열이 아닙니다')
+ else:
+    left_bracket.pop()
+        pass
+'''
+##### for-else => for 반복문이 break로 끝나지 않으면 else 벌럭을 실행. for 반복문이 정상적으로 순회했다면 else 블럭 실행 X. 

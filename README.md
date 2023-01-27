@@ -69,5 +69,8 @@ Today I learned...
 1/26/2023 
 - Stack and Queue
 
+1/27/2023 
+- Heap
+- Set 
 
 
