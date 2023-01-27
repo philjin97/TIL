@@ -18,3 +18,10 @@
 #### 가장 먼저 들어온 데이터가 가장 먼저 나감
 #### 언제: 순서와 대기 
 #### List - *pop(0)* 가장 오래된 데이터 - *append()* 가장 최신의 데이터
+<br/>
+
+## *queue? deque?*
+#### *from collections import deque*
+#### *from queue import Queue*
+#### **속도** 
+
