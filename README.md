@@ -73,4 +73,7 @@ Today I learned...
 - Heap
 - Set 
 
+1/30/2023
+- Nested List
+
 
