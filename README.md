@@ -76,4 +76,7 @@ Today I learned...
 1/30/2023
 - Nested List
 
+1/31/2023
+- Nested List (Transpose)
+
 
