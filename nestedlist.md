@@ -65,5 +65,41 @@ print(sum(map(sum, matrix)))
 
 #### 전치/ Transpose
 #### *transposed_matrix[i][j] = matrix[j][i]*
+<br/>
+
+'''
+
+grid = [
+    [0,0],
+    [0,1],
+    [1,0],
+    [0,0],
+    [0,1]
+]
+
+m = 5
+n = 2
+
+for x in range(n):
+    for y in reversed(range(m)):
+        if grid[y][x] == 1:
+            while True:
+                if grid[y+1][x] == 1:
+                    break
+                grid[y][x] = 0
+                grid[y+1][x] = 1
+
+                move_dis += 1
+
+                y += 1 
+
+def pprint(arr):
+    for a in arr:
+        print(*a)
+
+pprint(grid)
+print(move_dis)
+'''
+                
 
 

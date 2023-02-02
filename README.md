@@ -79,4 +79,11 @@ Today I learned...
 1/31/2023
 - Nested List (Transpose)
 
+2/1/2023
+- Exhaustive Search
+- Delta Search
+
+2/2/2023
+- Graph
+
 
