@@ -89,4 +89,10 @@ Today I learned...
 2/6/2023
 - DFS
 
+2/7/2023
+- Implementation
+
+2/8/2023
+- Database
+
 
