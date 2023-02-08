@@ -34,4 +34,18 @@
 #### 데이터는 기본 키 또는 외래 키를 통해 결합 될 수 있는 여러 테이블에 결처 구조화 됨. 
 #### 각 Table은 Database로 그룹핑됨
 #### MySQL은 이러한 Database들을 그룹핑하여 관련된 작업을 수행하는 Database Server
+<br/>
+
+## How to use Workbench to access MySQL
+#### Open MySQL Shell 
+#### Then open MySQL Workbench 
+#### Click on local connections
+<br/>
+
+## How to import data and type in queries
+#### Data import -> Check Import from Self Contained File and select the data file. 
+#### Start import and check successful import. 
+#### Click on schemas -> refresh -> check for database file you want to select. 
+#### Then click on query editor and type SELECT * FROM customers. 
+<br/>
 
