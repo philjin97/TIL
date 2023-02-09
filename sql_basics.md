@@ -27,6 +27,7 @@
 #### SELECT firstName FROM employees ORDER BY firstName; 
 #### SELECT firstName FROM employees ORDER BY firstName DESC;
 #### SELECT firstName, firstName FROM employees ORDER BY firstName DESC, firstName
-#### 
+#### SELECT productCode, quantityOrdered * priceEach AS totalSales FROM orderdetails ORDER BY totalSales DESC;
+
 
 
