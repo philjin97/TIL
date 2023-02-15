@@ -95,4 +95,17 @@ Today I learned...
 2/8/2023
 - Database
 
+2/9/2023 
+- Intro to MySQL
+
+2/10/2023 
+- Algorithm Test
+
+2/13/2023 
+- SQL_basics (SELECT)
+
+2/14/2023 
+- SQL_mangingtables 
+
+
 
