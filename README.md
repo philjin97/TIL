@@ -107,5 +107,14 @@ Today I learned...
 2/14/2023 
 - SQL_mangingtables 
 
+2/15/2023
+- SQL_multitable
+
+2/16/2023 
+- Nested_Queries
+
+2/17/2023 
+- SQLD + Programmers SQL Problems
+
 
 
