@@ -116,5 +116,11 @@ Today I learned...
 2/17/2023 
 - SQLD + Programmers SQL Problems
 
+2/20/2023 
+- SQL_Advanced (Transactions_Triggers)
+
+2/21/2023 
+- SQL_Advanced (Normalization_Modeling)
+
 
 
