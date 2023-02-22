@@ -122,5 +122,8 @@ Today I learned...
 2/21/2023 
 - SQL_Advanced (Normalization_Modeling)
 
+2/22/2023 
+- Web - Fundamentals of HTML and CSS
+
 
 
