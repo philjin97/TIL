@@ -18,3 +18,5 @@
 #### Specificity - 우선순위 점수에 따라 점수가 높은 규칙이 사용 
 #### color: darkviolet !important; => 중요도 1위. 
 #### 상속 -> 부모 요소의 속성을 자식에게 상속 
+#### CSS properties: font-size, color, etc. 
+#### ~mdn -> mozilla developer notes 문서  
