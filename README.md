@@ -125,5 +125,11 @@ Today I learned...
 2/22/2023 
 - Web - Fundamentals of HTML and CSS
 
+2/23/2023 
+- The Box Model
+
+2/27/2023 
+- Web - Positioning for CSS layout
+
 
 
