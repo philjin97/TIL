@@ -131,5 +131,9 @@ Today I learned...
 2/27/2023 
 - Web - Positioning for CSS layout
 
+2/28/2023
+- Web - Floating for CSS layout
+- Web - Flexible box for CSS layout
+
 
 
