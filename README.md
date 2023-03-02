@@ -135,5 +135,8 @@ Today I learned...
 - Web - Floating for CSS layout
 - Web - Flexible box for CSS layout
 
+3/2/2023
+- Semantics in HTML
+
 
 
