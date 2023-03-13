@@ -147,5 +147,8 @@ Today I learned...
 3/8/2023 
 - Grid System Breakpoints
 
+3/13/2023 
+- Javascript Dom
+
 
 
