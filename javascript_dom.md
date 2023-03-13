@@ -12,6 +12,13 @@
 
 #### DOM Query
 #### document.querySelector(), document.querySelectorAll()
-#### 속성 (attribute)
+#### 속성 (attribute) 조작
 #### 'classList' => element.classList.add(), element.classList.remove()
-#### 
+#### .getAttribute(), .setAttribute(), removeAttribute()
+#### HTML 콘텐츠 조작
+#### .textContent
+#### DOM 조작
+#### .createElement(), .appendChild(), .removeChild()
+#### style 조작
+#### .style.color, .style.fontSize 
+
