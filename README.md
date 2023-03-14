@@ -150,5 +150,8 @@ Today I learned...
 3/13/2023 
 - Javascript Dom
 
+3/14/2023
+- Javascript Basic Syntax
+
 
 
